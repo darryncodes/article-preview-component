@@ -34,7 +34,6 @@ Users should be able to:
 
 - [GitHub repo](https://github.com/darryncodes/article-preview-component)
 - [Solution URL](https://darryncodes.github.io/article-preview-component/)
-- [Live Site URL](https://www.darryncodes.co.uk/pages/article-preview-component.html)
 
 ## My process
 
